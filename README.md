@@ -10,9 +10,13 @@
 
 # Features
 The game has few features.
+
 -Progress saving (best score)
+
 -key press detection
+
 -cool mechanics
+
 -best score system
 
 # Rules
