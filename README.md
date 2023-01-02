@@ -11,13 +11,13 @@
 # Features
 The game has few features.
 
--Progress saving (best score)
+- Progress saving (best score)
 
--key press detection
+- key press detection
 
--cool mechanics
+- cool mechanics
 
--best score system
+- best score system
 
 # Rules
 The game is about keeping the number within the range of 1 to 2137. When you go beyond that range, the game ends. 
@@ -27,8 +27,8 @@ The best score is saved to the disk in the game folder.
 
 # Premade binaries
 
--[Widnows](https://github.com/dam2452/2137-The-Game/releases/tag/v1.0.0)
+- [Widnows]([https://github.com/dam2452/2137-The-Game/releases/tag/v1.0.0](https://github.com/dam2452/2137-The-Game/releases/download/v1.0.0/2137theGame.zip))
 
--Linux TODO 
+- Linux TODO 
 
--Mac Unfortunately, I don't have a computer with macOS 
+- Mac Unfortunately, I don't have a computer with macOS 
